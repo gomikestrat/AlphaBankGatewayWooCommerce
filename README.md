@@ -27,11 +27,13 @@ via the Alpha Bank(Greece) online payment system.
 ## History
 
 * Initial Commit 26/05/2016  
+* MasterPass option 30/04/2019
 
 ## Credits
 
 * <antreasgribas@gmail.com>
 * <agelos@smartcode.gr>
+* <mike.strat@gmail.com>
 
 ## License
 
